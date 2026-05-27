@@ -6,7 +6,7 @@
 # 🏏 IPL Data Analysis — Royal Challengers Bangalore
 ### Auction Strategy 2017 | SQL + Data Analytics Project
 
-[![Author](https://img.shields.io/badge/Author-Shivam%20Gupta-CC0000?style=for-the-badge&logo=person)](https://github.com/YOUR_USERNAME)
+[![Author](https://img.shields.io/badge/Author-Shivam%20Gupta-CC0000...)](https://github.com/Shivamgupta6388)
 [![Institute](https://img.shields.io/badge/Institute-Newton%20School-FFD700?style=for-the-badge)](https://newtonschool.co)
 [![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Status](https://img.shields.io/badge/Status-Completed-00C853?style=for-the-badge)](/)
